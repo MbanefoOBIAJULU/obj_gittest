@@ -18,9 +18,11 @@ console.log(shop)
 console.log(typeof(shop))*/
 
 const excel = [
-{number: 1, maritalstatus: "single", children:1, education: "partial college",  occupation: "skilled manual",},
-{number: 2, maritalstatus: "married", children:4, education: "college",  occupation: "banker",},
-{ number: 3, maritalstatus: "divorced", children:2, education: "medical school",  occupation: "doctor",},
+{number: 1, maritalstatus: "single", children:1, education: "partial college",  occupation: "skilled manual", age: 42, },
+{number: 2, maritalstatus: "married", children:4, education: "college",  occupation: "banker", age: 30,},
+{ number: 3, maritalstatus: "divorced", children:2, education: "medical school",  occupation: "doctor", age: 47,},
 ]
 console.table (excel)
-
+//`5 plus 5 equals ${5 + 5}`
+//let ada = `5 plus 5 equals ${5 + 5}`
+//console.log (ada)

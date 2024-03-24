@@ -1,11 +1,11 @@
-/*console.log('Hello, world!')
+console.log('Hello, world!')
 console.log ('i am happy to be a member of WE CODE')
 console.log ('we have classes once in a week ')//usually every sunday
 console.log ('we have four members in our class')
 console.log ('Kanayo O Kanayo is our Instructor ')//Mr kay for short
 console.log ('a lady is also a member of our class') // Uloma by name..
 let answerToUltimateQuestion = 42;     // initializing a variable
-console.log(answerToUltimateQuestion);
+/*console.log(answerToUltimateQuestion);
 const sayHi = function() {
     console.log("Hi!");
   }; 
@@ -24,5 +24,5 @@ const sayHi = function() {
     { name: "Melanie", color: "Brown", personality: "Hyperactive" },
     { name: "Peppers", color: "white", personality: "Unpredictable" },
   ];*/
-  console.table(dogs)
-  > "He said, 'Hi there!'"    // with double quotes
+  //console.table(dogs)
+  // "He said, 'Hi there!'"    // with double quotes
