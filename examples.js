@@ -8,16 +8,15 @@ let num6 = 234891234
 console.log(num1, num2,  num3, num4,num5,num6)
 console.log (typeof(num1))*/
 
-/*let girl= (10*10*10)
+let girl= (10*10*10)
 console.log(girl)
 console.log(typeof(girl))
-*/
 
 /*let shop= (100*27-1000 - (2*10+4+1000-10))
 console.log(shop) 
 console.log(typeof(shop))*/
 
-const excel = [
+/*const excel = [
 {number: 1, maritalstatus: "single", children:1, education: "partial college",  occupation: "skilled manual", age: 42, },
 {number: 2, maritalstatus: "married", children:4, education: "college",  occupation: "banker", age: 30,},
 { number: 3, maritalstatus: "divorced", children:2, education: "medical school",  occupation: "doctor", age: 47,},
@@ -25,4 +24,5 @@ const excel = [
 console.table (excel)
 //`5 plus 5 equals ${5 + 5}`
 //let ada = `5 plus 5 equals ${5 + 5}`
-//console.log (ada)
+//console.log (ada)*/
+
